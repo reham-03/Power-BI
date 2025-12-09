@@ -40,7 +40,7 @@ This indicates that projects generally have a significantly positive return comp
  • West & East in America have a large number of projects.
  • North & South in Europe and Africa have fewer projects.
 
-➡ Highlights the difference in workload distribution across regions.
+Highlights the difference in workload distribution across regions.
 
 4) Projects by Manager
 
@@ -67,4 +67,4 @@ Helps understand the fair distribution of tasks among managers.
  • Low Complexity: 30
 
 High-complexity projects are the most numerous and require careful management.
-Project-Management/Project Management.pbix
+
