@@ -68,4 +68,4 @@ Helps understand the fair distribution of tasks among managers.
 
 High-complexity projects are the most numerous and require careful management.
 
-Project-Managment/Screenshot 2025-12-08 184212.png
+![Project Screenshot](Project-Managment/Screenshot%202025-12-08%20184212.png)
