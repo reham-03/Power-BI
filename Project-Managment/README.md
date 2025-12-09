@@ -68,4 +68,3 @@ Helps understand the fair distribution of tasks among managers.
 
 High-complexity projects are the most numerous and require careful management.
 
-Project Managment.pbix
